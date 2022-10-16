@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Daniel Bueno 😊
 
  <div>
-   <a href="https://github.com/dream-247">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dream-247&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dream-247&layout=compact&langs_count=6&theme=onedark"/>
+   <a href="https://github.com/danielsrbueno">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsrbueno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsrbueno&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href="https://instagram.com/dan.bueno7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielsrbueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/dream-247/dream-247/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielsrbueno/danielsrbueno/blob/output/github-contribution-grid-snake.svg)
 
 </div>
