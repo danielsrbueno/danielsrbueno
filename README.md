@@ -1,10 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😊
 
  <div>
-  <picture>
-      <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielsrbueno/danielsrbueno/refs/heads/main/dan-signed.svg">
-      <img alt="Daniel Bueno" src="https://raw.githubusercontent.com/danielsrbueno/danielsrbueno/refs/heads/main/dan-signed.svg">
-    </picture>
    <a href="https://github.com/danielsrbueno">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsrbueno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsrbueno&layout=compact&langs_count=6&theme=onedark"/>
