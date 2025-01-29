@@ -1,9 +1,11 @@
 # <h1 align="center">Hi, I'm <a href="https://danbueno.com">Daniel Bueno<a><img src="https://github.com/danielsrbueno/danielsrbueno/blob/main/wave.gif" width="60px"></h1>
 
+<br>
+
 ## 👨🏽‍💻 About Me:
 - 🚀 I am currently working on the <a href="https://github.com/Flyra-Drones">Flyra project</a>
 - 🎓 I am a final year student of the integrated technical course in Systems Development at Etec Jaraguá
-- 🪪 Visit: danbueno.com for more information
+- 🪪 Visit: <a href="https://danbueno.com">danbueno.com</a> for more information
 
 <br>
 
