@@ -53,7 +53,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-db2777?style=for-the-badge&logo=googlegemini&logoColor=white)](https://wa.me/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=googlehome&logoColor=white)](https://linkedin.com/in/danielsrbueno) [![Email](https://img.shields.io/badge/-Email-E42527?style=for-the-badge&logo=zoho&logoColor=white)](mailto:contato@danbueno.com) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511960538467)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-db2777?style=for-the-badge&logo=googlegemini&logoColor=white)](https://danbueno.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=googlehome&logoColor=white)](https://linkedin.com/in/danielsrbueno) [![Email](https://img.shields.io/badge/-Email-E42527?style=for-the-badge&logo=zoho&logoColor=white)](mailto:contato@danbueno.com) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511960538467)
   
 </div>
 
