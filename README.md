@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="danbueno.com">Daniel Bueno<a><img src="https://github.com/danielsrbueno/danielsrbueno/blob/main/wave.gif" width="60px"></h1>
+# <h1 align="center">Hi, I'm <a href="https://danbueno.com">Daniel Bueno<a><img src="https://github.com/danielsrbueno/danielsrbueno/blob/main/wave.gif" width="60px"></h1>
 
 ## 👨🏽‍💻 About Me:
 - 🚀 I am currently working on the <a href="https://github.com/Flyra-Drones">Flyra project</a>
